@@ -323,6 +323,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: car
       objectReference: {fileID: 0}
+    - target: {fileID: 5014413636223205092, guid: c08dfbba06a27ed468f1e9ccb61736a6, type: 3}
+      propertyPath: acceleration
+      value: 1500
+      objectReference: {fileID: 0}
+    - target: {fileID: 5014413636223205092, guid: c08dfbba06a27ed468f1e9ccb61736a6, type: 3}
+      propertyPath: breakingForce
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 5014413636223205095, guid: c08dfbba06a27ed468f1e9ccb61736a6, type: 3}
+      propertyPath: m_Mass
+      value: 400
+      objectReference: {fileID: 0}
     - target: {fileID: 5682722558177518683, guid: c08dfbba06a27ed468f1e9ccb61736a6, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -333,7 +345,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5682722558177518683, guid: c08dfbba06a27ed468f1e9ccb61736a6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5682722558177518683, guid: c08dfbba06a27ed468f1e9ccb61736a6, type: 3}
       propertyPath: m_LocalPosition.z
